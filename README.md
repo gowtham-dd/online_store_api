@@ -1,6 +1,4 @@
-Here’s the complete code for the layout you’ve requested in `README.md` format:
 
-```md
 # 🛒 E-Commerce API
 
 Welcome to the **E-Commerce API**! This API serves as a robust backend solution for any e-commerce platform. It supports everything from **Products** and **Categories** to **Orders**, **Variants**, and integrated payment gateways like **Stripe** and **Razorpay**. Whether running locally or on the cloud, this API ensures a smooth and scalable e-commerce experience! 🚀
